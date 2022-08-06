@@ -1,0 +1,86 @@
+html{
+    background-color: black;
+    color: white;
+}
+
+header{
+    text-align: center;
+    font-size: 40px;
+}
+
+nav{
+    background-color: rgb(9, 255, 0);
+    height: 40px;
+    font-size: 30px;
+    text-align: end;
+}
+section{
+    margin-top: 150px;
+}
+
+.redes{
+    max-width: 70px;
+    max-height: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+img{
+    height: 200px;
+    margin-left: 210px;
+    margin-right: 210px;
+    align-items: center;
+    
+}
+
+img:hover {
+    box-shadow: 0 0 10px 10px  rgb(9, 255, 0);
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    border-style: double;
+    border-color: rgb(9, 255, 0);
+ 
+}
+
+#sobre{
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    font-size: 30px;
+    border-style: dashed;
+    border-color: rgb(9, 255, 0);
+}
+
+form{
+    margin-left: 750px;
+    margin-right: 1500px;
+
+}
+
+ fieldset{
+    border-style: groove;
+    border-color: rgb(9, 255, 0);
+    border-width: 7px;
+ }
+
+ legend{
+    font-size: 25px;
+ }
+
+ input{
+    margin: 15px;
+    padding-left: 10px;
+ }
+
+ textarea{
+    margin: 15px;
+    padding: 10px;
+ }
+
+ .cont{
+    font-size: 30px;
+ }
+ 
